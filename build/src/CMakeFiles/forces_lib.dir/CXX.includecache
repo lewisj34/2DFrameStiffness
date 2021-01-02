@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../includes/forces.h
+iostream
+-
+armadillo
+-
+
+/home/john/Documents/Dev_Linux/Projects/Stiffness_Simple/src/forces.cpp
+forces.h
+/home/john/Documents/Dev_Linux/Projects/Stiffness_Simple/src/forces.h
+

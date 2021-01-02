@@ -1,0 +1,8 @@
+/home/john/Documents/Dev_Linux/Projects/Stiffness_Simple/build/CMakeFiles/edit_cache.dir
+/home/john/Documents/Dev_Linux/Projects/Stiffness_Simple/build/CMakeFiles/rebuild_cache.dir
+/home/john/Documents/Dev_Linux/Projects/Stiffness_Simple/build/CMakeFiles/stiff.dir
+/home/john/Documents/Dev_Linux/Projects/Stiffness_Simple/build/src/CMakeFiles/rebuild_cache.dir
+/home/john/Documents/Dev_Linux/Projects/Stiffness_Simple/build/src/CMakeFiles/edit_cache.dir
+/home/john/Documents/Dev_Linux/Projects/Stiffness_Simple/build/src/CMakeFiles/comp_lib.dir
+/home/john/Documents/Dev_Linux/Projects/Stiffness_Simple/build/includes/CMakeFiles/rebuild_cache.dir
+/home/john/Documents/Dev_Linux/Projects/Stiffness_Simple/build/includes/CMakeFiles/edit_cache.dir

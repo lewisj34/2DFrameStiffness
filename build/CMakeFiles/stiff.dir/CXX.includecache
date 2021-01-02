@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../includes/comp.h
+armadillo
+-
+vector
+-
+assert.h
+-
+iomanip
+-
+
+/home/john/Documents/Dev_Linux/Projects/Stiffness_Simple/main.cpp
+comp.h
+/home/john/Documents/Dev_Linux/Projects/Stiffness_Simple/comp.h
+

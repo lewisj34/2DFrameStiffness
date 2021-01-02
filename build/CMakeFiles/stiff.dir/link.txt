@@ -1,0 +1,1 @@
+/usr/bin/g++-9 CMakeFiles/stiff.dir/main.cpp.o -o stiff  src/libcomp_lib.a /usr/lib/libarmadillo.so 

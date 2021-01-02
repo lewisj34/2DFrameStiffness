@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsupports_lib.a CMakeFiles/supports_lib.dir/supports.cpp.o
+/usr/bin/ranlib libsupports_lib.a

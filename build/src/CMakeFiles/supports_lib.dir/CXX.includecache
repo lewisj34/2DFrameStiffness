@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../includes/supports.h
+array
+-
+iostream
+-
+
+/home/john/Documents/Dev_Linux/Projects/Stiffness_Simple/src/supports.cpp
+supports.h
+/home/john/Documents/Dev_Linux/Projects/Stiffness_Simple/src/supports.h
+
